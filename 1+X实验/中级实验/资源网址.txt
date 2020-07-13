@@ -1,0 +1,16 @@
+04：
+1.	《华为ModelArts配置指南》
+获取地址：https://www.huaweicloud.com/product/modelarts.html
+2.	Python官方文档
+获取地址：https://docs.python.org/zh-cn/3/
+3.	scikit-learn官网文档中文版
+获取地址：https://sklearn.apachecn.org/
+4.	seaborn官方文档
+获取地址：http://seaborn.pydata.org/
+
+05：
+参考文档：
+1.	《华为ModelArts配置指南》，获取地址：
+https://www.huaweicloud.com/product/modelarts.html
+2.	《如何购买OBS》
+OBS产品文档，链接：https://support.huaweicloud.com/obs/index.html 
